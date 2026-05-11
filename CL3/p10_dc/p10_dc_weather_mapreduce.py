@@ -123,4 +123,3 @@ if __name__ == "__main__":
     app = WeatherMapReduce()
     app.run()
 """
-```
